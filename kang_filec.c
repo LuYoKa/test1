@@ -1,0 +1,6 @@
+#include "stdio"
+
+void main()
+{
+  
+}
